@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+# Raw videos
+Ronaldo.mp4
+Video Project_foodball 1.mp4
+
+# Ignore demo videos by default
+*.mp4
+
+# Ignore model files by default
+*.pt
+*.pth
+*.onnx
